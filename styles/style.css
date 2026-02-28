@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #181811;
+}
+
+.navbar {
+  width: 375px;
+  height: 75px;
+  background: white;
+  border-radius: 10rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar a{
+  color: #181811;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.mineshelf-p p{
+  color: whitesmoke;
+  font-size: 20px;
+}
